@@ -12,6 +12,6 @@ Converts input (decimal) and gives output (decimal) in the following ways:
 8. Feet to Yard
 
 **Created by:**  
-Kohinoor Sultana Elora  
 Saowmi Mehzabin  
-Sharon Rose Sarker
+Sharon Rose Sarker  
+Kohinoor Sultana Elora  
